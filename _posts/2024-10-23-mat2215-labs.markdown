@@ -1,0 +1,9 @@
+---
+layout: post
+title: "MAT2215 Labs"
+date: 2024-10-23 22:51:00 -0400
+categories: jupyter machine learning ai
+---
+# Mathematics for Machine Learning and AI Labs
+[Labs Download][assets/MAT2215_labs.zip]
+[Notes Download][assets/MAT2215_notes.pdf]
